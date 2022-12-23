@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "goit-markup-hw-01",
+			"path": "../../goit-markup-hw-01"
+		},
+		{
+			"name": "goit-markup-hw-02",
+			"path": ".."
+		},
+		{
+			"path": "../../../../Pulpit/VIDEO-SHOW/images"
+		}
+	],
+	"settings": {}
+}
