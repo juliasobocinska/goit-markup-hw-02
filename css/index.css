@@ -1,0 +1,411 @@
+.header {
+	width: 600px;
+	height: 80px;
+	stroke: solid;
+	background-color: #ececec;
+	align-items: mixed;
+}
+.Web {
+    color: rgba(33, 150, 243, 1);
+    width: 145px;
+    font-family: "Raleway", sans-serif;
+        font-style: Bold;
+        font-size: 26px;
+        line-height: 31px;
+        line-height: 100%;
+        text-align: left;
+        vertical-align: top;
+        letter-spacing: 3%;
+    }
+    .Studio {
+        width: 145px;
+    font-family: "Raleway", sans-serif;
+        font-style: Bold;
+        font-size: 26px;
+        line-height: 31px;
+        line-height: 100%;
+        text-align: left;
+        vertical-align: top;
+        letter-spacing: 3%;
+        color: rgba(255, 255, 255, 1);
+    }
+.email {
+	font-family: "Roboto", sans-serif;
+	font-style: medium;
+	font-size: 14px;
+	line-height: 16px;
+	line-height: 100%;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 2%;
+	fill: solid;
+	text-decoration: #757575;
+}
+.phonenumber {
+	font-family: "Roboto", sans-serif;
+	font-style: medium;
+	font-size: 14px;
+	line-height: 16px;
+	line-height: 100%;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 2%;
+	fill: solid;
+	text-decoration: #757575;
+}
+.Studio {
+	font-family: "Roboto", sans-serif;
+	font-style: medium;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 2%;
+	text-decoration: rgba(33, 33, 33, 1);
+	fill: solid;
+}
+.Portfolio {
+	font-family: "Roboto", sans-serif;
+	font-style: medium;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 2%;
+	fill: solid;
+	text-decoration: #2196f3;
+}
+.Contacts {
+	font-family: "Roboto", sans-serif;
+	font-style: medium;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 2%;
+	fill: solid;
+	text-decoration: #212121;
+}
+.All {
+	font-family: "Roboto", sans-serif;
+	font-style: medium;
+	font-size: 16px;
+	line-height: 26px;
+	line-height: 139%;
+	text-align: center;
+	vertical-align: top;
+	letter-spacing: 3%;
+	fill: solid;
+	text-decoration: #ffffff;
+}
+.Pages {
+	font-family: "Roboto", sans-serif;
+	font-style: medium;
+	font-size: 26px;
+	line-height: 139%;
+	text-align: center;
+	vertical-align: top;
+	letter-spacing: 3%;
+	fill: solid;
+	text-decoration: #212121;
+}
+.Apps {
+	font-family: "Roboto", sans-serif;
+	font-style: medium;
+	font-size: 16px;
+	line-height: 26px;
+	line-height: 139%;
+	text-align: center;
+	vertical-align: top;
+	letter-spacing: 3%;
+	fill: solid;
+	text-decoration: #212121;
+}
+.Design {
+	font-family: "Roboto", sans-serif;
+	font-style: medium;
+	font-size: 16px;
+	line-height: 26px;
+	line-height: 139%;
+	text-align: center;
+	vertical-align: top;
+	letter-spacing: 3%;
+	fill: solid;
+	text-decoration: #212121;
+}
+.Marketing {
+	font-family: "Roboto", sans-serif;
+	font-style: medium;
+	font-size: 16px;
+	line-height: 26px;
+	line-height: 139%;
+	text-align: center;
+	vertical-align: top;
+	letter-spacing: 3%;
+	fill: solid;
+	text-decoration: #212121;
+}
+.Technocrack {
+	font-family: "Roboto", sans-serif;
+	font-style: bold;
+	font-size: 18px;
+	line-height: 36px;
+	line-height: 171%;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 6%;
+	fill: solid;
+	text-decoration: #212121;
+}
+.StronaInterentowa {
+	font-family: "Roboto", sans-serif;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 30px;
+	line-height: 160%;
+	text-align: top;
+	letter-spacing: 3%;
+	fill: solid;
+	text-decoration: #757575;
+}
+.GrafikaNewOrleanvsGoldenStar {
+	font-family: "Roboto", sans-serif;
+	font-style: bold;
+	font-size: 18px;
+	line-height: 36px;
+	line-height: 171%;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 6%;
+	fill: solid;
+	text-decoration: #212121;
+}
+.Design {
+	font-family: "Roboto", sans-serif;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 30px;
+	line-height: 160%;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 3%;
+	fill: solid;
+	text-decoration: #757575;
+}
+.RestauracjaSeafood {
+	font-family: "Roboto", sans-serif;
+	font-style: bold;
+	font-size: 18px;
+	line-height: 36px;
+	line-height: 171%;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 6%;
+	fill: solid;
+	text-decoration: #212121;
+}
+.ProjectPrime {
+	font-family: "Roboto", sans-serif;
+	font-style: bold;
+	font-size: 18px;
+	line-height: 36px;
+	line-height: 171%;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 6%;
+	fill: solid;
+	text-decoration: #212121;
+}
+.Marketing {
+	font-family: "Roboto", sans-serif;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 30px;
+	line-height: 160px;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 3%;
+	fill: solid;
+	text-decoration: #757575;
+}
+.ProjectBoxes {
+	font-family: "Roboto", sans-serif;
+	font-style: bold;
+	font-size: 18px;
+	line-height: 36px;
+	line-height: 171%;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 6%;
+	fill: solid;
+	text-decoration: #212121;
+}
+.App {
+	font-family: "Roboto", sans-serif;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 30px;
+	line-height: 160px;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 3%;
+	fill: solid;
+	text-decoration: #757575;
+}
+.InspirationhasnoBorders {
+	font-family: "Roboto", sans-serif;
+	font-style: bold;
+	font-size: 18px;
+	line-height: 36px;
+	line-height: 171%;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 6%;
+	fill: solid;
+	text-decoration: #212121;
+}
+.StronaInterentowa {
+	font-family: "Roboto", sans-serif;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 30px;
+	line-height: 160px;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 3%;
+	fill: solid;
+	text-decoration: #757575;
+}
+.MagazineLimitedEdition {
+	font-family: "Roboto", sans-serif;
+	font-style: bold;
+	font-size: 18px;
+	line-height: 36px;
+	line-height: 171%;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 6%;
+	fill: solid;
+	text-decoration: #212121;
+}
+.Design {
+	font-family: "Roboto", sans-serif;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 30px;
+	line-height: 160px;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 3%;
+	fill: solid;
+	text-decoration: #757575;
+}
+.ProjectLAB {
+	font-family: "Roboto", sans-serif;
+	font-style: bold;
+	font-size: 18px;
+	line-height: 36px;
+	line-height: 171%;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 6%;
+	fill: solid;
+	text-decoration: #212121;
+}
+.Marketing {
+	font-family: "Roboto", sans-serif;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 30px;
+	line-height: 160px;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 3%;
+	fill: solid;
+	text-decoration: #757575;
+}
+.GrowingBusiness {
+	font-family: "Roboto", sans-serif;
+	font-style: bold;
+	font-size: 18px;
+	line-height: 36px;
+	line-height: 171%;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 6%;
+	fill: solid;
+	text-decoration: #212121;
+}
+.App {
+	font-family: "Roboto", sans-serif;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 30px;
+	line-height: 160px;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 3%;
+	fill: solid;
+	text-decoration: #757575;
+}
+.footer {
+	width: 1600px;
+	height: 252px;
+	overflow-y: 1628px;
+    fill: solid;
+    background-color: #2F303A;
+}
+.Web {
+color: rgba(33, 150, 243, 1);
+width: 145px;
+font-family: "Raleway", sans-serif;
+	font-style: Bold;
+    font-size: 26px;
+    line-height: 31px;
+    line-height: 100%;
+    text-align: left;
+	vertical-align: top;
+	letter-spacing: 3%;
+}
+.Studio {
+    width: 145px;
+font-family: "Raleway", sans-serif;
+	font-style: Bold;
+    font-size: 26px;
+    line-height: 31px;
+    line-height: 100%;
+    text-align: left;
+	vertical-align: top;
+	letter-spacing: 3%;
+    color: rgba(255, 255, 255, 1);
+}
+.m.WarszwaAlejeJerozolimskie21 {
+    font-family: "Roboto", sans-serif;
+	font-style: normal;
+	font-size: 14px;
+	line-height: 24px;
+	line-height: 146px;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 3%;
+	fill: solid;
+    text-decoration: #FFFFFF;
+}
+.email {
+    font-family: "Roboto", sans-serif;
+	font-style: normal;
+	font-size: 14px;
+	line-height: 24px;
+	line-height: 146px;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 3%;
+	fill: solid;
+    text-decoration: rgba(255, 255, 255, 0.6);
+}
+.phonenumber {
+    font-family: "Roboto", sans-serif;
+	font-style: normal;
+	font-size: 14px;
+	line-height: 24px;
+	line-height: 146px;
+	text-align: left;
+	vertical-align: top;
+	letter-spacing: 3%;
+	fill: solid;
+    text-decoration: rgba(255, 255, 255, 0.6);
+}
